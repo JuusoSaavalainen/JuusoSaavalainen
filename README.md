@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=00DC1FF8&background=4E00FF00&random=false&width=435&lines=Nice+to+see+you+here+!%F0%9F%91%BD%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=JuusoSaavalainen&label=Fun+Fact&base=99975)
+![](https://komarev.com/ghpvc/?username=JuusoSaavalainen&label=Fun+Fact&base=271828)
 
 
 
