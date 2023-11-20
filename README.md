@@ -1,4 +1,7 @@
-### Hi there 👋
+### Nice to see you here ! 👽 
+![](https://komarev.com/ghpvc/?username=JuusoSaavalainen&label=Fun+Fact&base=99994)
+
+
 
 <!--
 **JuusoSaavalainen/JuusoSaavalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
