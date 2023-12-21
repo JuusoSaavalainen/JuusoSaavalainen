@@ -10,8 +10,10 @@
     - I'm on the lookout for my first position in roles that blend **data and software** expertise!
 
 
+<h4 align="center">
+Some Tech and Tools I've Used
+</h4>
 
-#### *Some Tech and Tools I've Used* 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -42,8 +44,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuusoSaavalainen&label=Page+Refresh+Count&base=0" alt="Page Refresh Count">
+</p>
 
-![](https://komarev.com/ghpvc/?username=JuusoSaavalainen&label=Page+Refresh+Count&base=0)
+
 
 
 
