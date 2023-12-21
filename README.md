@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=00DC1FF8&background=4E00FF00&random=false&width=435&lines=Nice+to+see+you+here+!%F0%9F%91%BD%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
-- I'm a passionate 3rd-year computer science student, set to graduate this summer with a Bachelor's degree.
+- I'm a passionate 3rd-year CS student, set to graduate this summer with a Bachelor's degree.
    After that moving for a Master's in Data Science to deepen my knowledge in the fields of ML, AI, and DS.
 
   - Currently working as a research assistant, in the field of medicine. My work includes handling large datasets, statistical analyses, creating new cohorts + features + visualizations and extracting meaningful insights. 
