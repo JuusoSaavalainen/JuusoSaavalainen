@@ -7,8 +7,9 @@
 
 <p align="center">
   - I'm a passionate 3rd-year <b>CS</b> student in University of Helsinki, set to graduate this summer with a Bachelor's degree. After that moving for a Master's in <b>Data Science</b> <br><br>
- - Currently working as a <b>research assistant</b>, in the field of medicine.
-  - I'm on the lookout for my first position in roles that blend <b>data and software</b> expertise!
+ - Currently working as a <b>research assistant</b>, in the field of medicine
+
+ - I'm on the lookout for my first position in roles that blend <b>data and software</b> expertise!
 </p>
 
 <h4 align="center">
